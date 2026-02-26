@@ -1,0 +1,44 @@
+baseURL = "https://horafly.github.io/MySite/"
+title = "HoraFly"
+theme = "PaperMod"
+defaultContentLanguage = "zh"
+defaultContentLanguageInSubdir = true
+enableRobotsTXT = true
+
+[languages]
+  [languages.zh]
+    languageName = "简体中文"
+    weight = 1
+    contentDir = "content/zh"
+
+    [languages.zh.params.homeInfoParams]
+      Title = "你好 👋"
+      Content = "欢迎来到我的博客"
+
+    [languages.zh.menu]
+      [[languages.zh.menu.main]]
+        identifier = "posts"
+        name = "文章"
+        url = "/posts/"
+        weight = 10
+
+  [languages.en]
+    languageName = "English"
+    weight = 2
+    contentDir = "content/en"
+
+    [languages.en.params.homeInfoParams]
+      Title = "Hello 👋"
+      Content = "Welcome to my blog"
+
+    [languages.en.menu]
+      [[languages.en.menu.main]]
+        identifier = "posts"
+        name = "Posts"
+        url = "/posts/"
+        weight = 10
+
+[params]
+  defaultTheme = "auto"
+  ShowReadingTime = true
+  ShowCodeCopyButtons = true
