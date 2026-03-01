@@ -2,18 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on HoraFly</title>
-    <link>http://localhost:1313/zh/posts/</link>
+    <link>http://localhost:1313/MySite/zh/posts/</link>
     <description>Recent content in Posts on HoraFly</description>
     <generator>Hugo -- 0.152.2</generator>
     <language>zh</language>
     <lastBuildDate>Thu, 26 Feb 2026 10:00:00 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/zh/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/MySite/zh/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>我家狗的故事————重新思考《一致性》对人的成长。</title>
+      <link>http://localhost:1313/MySite/zh/posts/consistency/</link>
+      <pubDate>Thu, 26 Feb 2026 10:00:00 +0800</pubDate>
+      <guid>http://localhost:1313/MySite/zh/posts/consistency/</guid>
+      <description>记录就是总结和反思，就是内化的过程。年事已高，时不我待，不得不下笔书写。</description>
+    </item>
     <item>
       <title>我为什么要写Blog</title>
-      <link>http://localhost:1313/zh/posts/helloblog/</link>
+      <link>http://localhost:1313/MySite/zh/posts/helloblog/</link>
       <pubDate>Thu, 26 Feb 2026 10:00:00 +0800</pubDate>
-      <guid>http://localhost:1313/zh/posts/helloblog/</guid>
-      <description>记录一次从零搭建 Hugo 博客并启用 PaperMod 主题与中英文配置的过程。</description>
+      <guid>http://localhost:1313/MySite/zh/posts/helloblog/</guid>
+      <description>记录就是总结和反思，就是内化的过程。年事已高，时不我待，不得不下笔书写。</description>
     </item>
   </channel>
 </rss>

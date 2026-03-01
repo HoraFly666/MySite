@@ -13,7 +13,11 @@ enableRobotsTXT = true
 
     [languages.zh.params.homeInfoParams]
       Title = "你好 👋"
-      Content = "欢迎来到我的博客"
+      Content = """
+喜欢读书，玩游戏，最近在学画画和做游戏。
+
+**你可以在这里找到我**
+      """
 
     [languages.zh.menu]
       [[languages.zh.menu.main]]
@@ -42,3 +46,15 @@ enableRobotsTXT = true
   defaultTheme = "auto"
   ShowReadingTime = true
   ShowCodeCopyButtons = true
+
+  [[params.socialIcons]]
+    name = "x"
+    url = "https://x.com/HoraFly666"
+
+  [[params.socialIcons]]
+    name = "github"
+    url = "https://github.com/HoraFly666"
+
+  [[params.socialIcons]]
+    name = "bilibili"
+    url = "https://space.bilibili.com/1822976941"

@@ -2,9 +2,9 @@
 title = "我为什么要写Blog"
 date = 2026-02-26T10:00:00+08:00
 draft = false
-tags = ["Hugo", "PaperMod", "博客"]
-categories = ["建站"]
-summary = "记录一次从零搭建 Hugo 博客并启用 PaperMod 主题与中英文配置的过程。"
+tags = ["Blog"]
+categories = ["life"]
+summary = "记录就是总结和反思，就是内化的过程。年事已高，时不我待，不得不下笔书写。"
 +++
 
 事情起源于半个月之前在读冯乐乐的《Unity Shader 入门精要》的时候，我怀着好奇心去了解冯乐乐这个人，发现她从大一开始，到研究生毕业，然后去到了米哈游，7年时间，她的成长非常瞩目。
